@@ -2,6 +2,7 @@
 
 This document explains the workflow of a typical **Reinforcement Learning with Human Feedback (RLHF)** pipeline as visualized in the provided diagram.
 
+[![Pipeline](https://i.postimg.cc/4yYqNt6p/Screenshot-2026-01-01-at-20-38-01.avif)](https://postimg.cc/BPGMmjwv)
 ---
 
 ## 1. Preprocess Inputs
@@ -36,6 +37,8 @@ The steps include:
 - Trains a reward model to score model outputs based on human preferences.
 - Output: trained reward model.
 
+[![RW](https://i.postimg.cc/Bvyw7t9J/Screenshot-2026-01-01-at-20-40-37.avif)](https://postimg.cc/ns4kCFhW)
+
 ---
 
 ## 4. Reinforcement Learning
@@ -51,6 +54,8 @@ The trained reward model is used in a **reinforcement learning loop** to fine-tu
 ### c. Reinforcer
 - Fine-tunes the model using reinforcement learning.
 - The reward model provides feedback (rewards) for the model’s outputs.
+
+[![RL](https://i.postimg.cc/Z5nHkZLR/Screenshot-2026-01-01-at-20-42-42.avif)](https://postimg.cc/k2rK80z3)
 
 ---
 
