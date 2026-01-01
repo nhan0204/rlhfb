@@ -3,3 +3,4 @@ keys/
 *.txt
 *.pyc
 PKG-INFO
+.env
