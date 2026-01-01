@@ -87,6 +87,5 @@ This pipeline ensures that the model aligns with **human preferences** and produ
 ---
 
 ## Diagram Reference
-
-![RLHF Pipeline](https://postimg.cc/18HhwQX6))
+[![RLHF](https://i.postimg.cc/BvWSWZGh/Screenshot-2026-01-01-at-20-29-18.avif)](https://postimg.cc/18HhwQX6)
 
