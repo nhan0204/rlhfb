@@ -99,7 +99,12 @@ This pipeline ensures that the model aligns with **human preferences** and produ
 ---
 ## References
 
-1. Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano Learning to summarize from human feedback [arXiv:1706.03741](https://arxiv.org/abs/2009.01325)
+1. **Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano**. *Learning to summarize from human feedback*. arXiv:2009.01325, 2020.  
+   [https://arxiv.org/abs/2009.01325](https://arxiv.org/abs/2009.01325)
+
+2. **DeepLearning.AI & OpenAI**. *Reinforcement Learning from Human Feedback (Short Course)*, 2023.  
+   [https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/](https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/)
+
 
 
 
