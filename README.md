@@ -37,7 +37,7 @@ The steps include:
 - Trains a reward model to score model outputs based on human preferences.
 - Output: trained reward model.
 
-[![RW](https://i.postimg.cc/Bvyw7t9J/Screenshot-2026-01-01-at-20-40-37.avif)](https://postimg.cc/ns4kCFhW)
+![RW](https://i.postimg.cc/Bvyw7t9J/Screenshot-2026-01-01-at-20-40-37.avif)
 
 ---
 
@@ -55,7 +55,7 @@ The trained reward model is used in a **reinforcement learning loop** to fine-tu
 - Fine-tunes the model using reinforcement learning.
 - The reward model provides feedback (rewards) for the model’s outputs.
 
-[![Reinforcement_learning](https://i.postimg.cc/Bvyw7t9J/Screenshot-2026-01-01-at-20-40-37.avif)](https://postimg.cc/ns4kCFhW)
+![Reinforcement_learning](https://i.postimg.cc/Bvyw7t9J/Screenshot-2026-01-01-at-20-40-37.avif)
 
 ---
 
