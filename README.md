@@ -2,9 +2,8 @@
 
 This document explains the workflow of a typical **Reinforcement Learning with Human Feedback (RLHF)** pipeline as visualized in the provided diagram.
 
-[[![Screenshot-2026-01-01-at-20-52-33.avif](https://i.postimg.cc/kGxJXkFy/Screenshot-2026-01-01-at-20-52-33.avif)](https://postimg.cc/zHGZx2QL)
+[![Screenshot-2026-01-01-at-20-52-33.avif](https://i.postimg.cc/kGxJXkFy/Screenshot-2026-01-01-at-20-52-33.avif)](https://postimg.cc/zHGZx2QL)
 
-![Original Paper](https://arxiv.org/pdf/2009.01325)
 ---
 
 ## 1. Preprocess Inputs
@@ -57,7 +56,7 @@ The trained reward model is used in a **reinforcement learning loop** to fine-tu
 - Fine-tunes the model using reinforcement learning.
 - The reward model provides feedback (rewards) for the model’s outputs.
 
-![Reinforcement_learning](https://i.postimg.cc/Bvyw7t9J/Screenshot-2026-01-01-at-20-40-37.avif)
+![Reinforcement_learning](https://i.postimg.cc/Z5nHkZLR/Screenshot-2026-01-01-at-20-42-42.avif)
 
 ---
 
@@ -95,4 +94,12 @@ This pipeline ensures that the model aligns with **human preferences** and produ
 
 ## Diagram Reference
 [![RLHF](https://i.postimg.cc/BvWSWZGh/Screenshot-2026-01-01-at-20-29-18.avif)](https://postimg.cc/18HhwQX6)
+
+
+---
+## References
+
+1. Nisan Stiennon, Long Ouyang, Jeff Wu, Daniel M. Ziegler, Ryan Lowe, Chelsea Voss, Alec Radford, Dario Amodei, Paul Christiano Learning to summarize from human feedback [arXiv:1706.03741](https://arxiv.org/abs/2009.01325)
+
+
 
