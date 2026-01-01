@@ -2,7 +2,9 @@
 
 This document explains the workflow of a typical **Reinforcement Learning with Human Feedback (RLHF)** pipeline as visualized in the provided diagram.
 
-[![Pipeline](https://i.postimg.cc/4yYqNt6p/Screenshot-2026-01-01-at-20-38-01.avif)](https://postimg.cc/BPGMmjwv)
+[[![Screenshot-2026-01-01-at-20-52-33.avif](https://i.postimg.cc/kGxJXkFy/Screenshot-2026-01-01-at-20-52-33.avif)](https://postimg.cc/zHGZx2QL)
+
+![Original Paper](https://arxiv.org/pdf/2009.01325)
 ---
 
 ## 1. Preprocess Inputs
