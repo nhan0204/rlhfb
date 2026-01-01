@@ -1,0 +1,5 @@
+keys/
+*.jsonl
+*.txt
+*.pyc
+PKG-INFO

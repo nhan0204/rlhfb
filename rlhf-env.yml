@@ -1,0 +1,31 @@
+name: rlhf-env
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pytorch>=2.4
+  - torchvision
+  - torchaudio
+  - pip:
+    - -e .
+    - python-dotenv
+    - transformers>=4.45
+    - trl>=0.11
+    - datasets>=2.11
+    - accelerate>=0.34
+    - peft>=0.13
+    - bitsandbytes>=0.44
+    - sentencepiece  # Often needed for tokenizers
+    - protobuf  # For some HF models
+    - tensorboard  # For logging/training visualization
+    - tqdm
+    - numpy
+    - pandas
+    # Google Cloud RLHF pipeline
+    - kfp>=2.7
+    - google-cloud-pipeline-components>=2.19
+    - google-cloud-aiplatform>=1.70  # Vertex AI SDK for pipeline submission
